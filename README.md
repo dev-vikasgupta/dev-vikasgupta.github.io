@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Vikas. Thanks for stopping by!
 
-Frontend Engineer with 8+ years of experience building web applications, developer tools, and accessible user experiences. Currently working at Amazon and building software products in my spare time.
+Frontend Engineer with 7.5 years of experience building web applications, developer tools, and accessible user experiences. Previously worked at Amazon, now building software products in my spare time.
 
 ## My Projects
 
