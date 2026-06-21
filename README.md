@@ -19,9 +19,10 @@ A place where I share projects, experiments, and things I'm building.
 
 ## Connect
 
-* GitHub: https://github.com/dev-vikasgupta
+* [GitHub](https://github.com/dev-vikasgupta)
+* [LinkedIN](http://linkedin.com/in/vkasgupta)
 
 ---
 
 **Vikas Gupta**
-Frontend Engineer | Amazon | India
+Frontend Engineer-2 | Ex-Amazon | India
