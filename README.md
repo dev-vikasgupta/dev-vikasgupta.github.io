@@ -1,4 +1,4 @@
-# Vikas Gupta
+# [vikasgupta.dev](index.html)
 
 👋 Hi, I'm Vikas. Thanks for stopping by!
 
@@ -6,7 +6,7 @@ Frontend Engineer with 7.5 years of experience building web applications, develo
 
 ## My Projects
 
-### [CodeFormatter](https://dev-vikasgupta.github.io/CodeFormatter-Policies/)
+### [CodeFormatter](./codeformatter/index.html)
 
 A Google Docs add-on that formats and syntax-highlights code blocks directly inside Google Docs.
 
