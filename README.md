@@ -6,7 +6,7 @@ Frontend Engineer with 7.5 years of experience building web applications, develo
 
 ## My Projects
 
-### [CodeFormatter](./codeformatter/index.html)
+### [CodeFormatter](./codeformatter)
 
 A Google Docs add-on that formats and syntax-highlights code blocks directly inside Google Docs.
 
