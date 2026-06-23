@@ -1,30 +1,23 @@
-# Privacy Policy
+# Privacy Policy for CodeFormatter
 
 **Last Updated:** June 2026
 
 ## Overview
 
-CodeFormatter is a Google Docs add-on that helps users format and syntax-highlight code snippets within Google Docs.
+CodeFormatter is a Google Docs™ add-on that helps users format and syntax-highlight code snippets within Google Docs™. 
 
 We respect your privacy and are committed to protecting your data.
 
 ---
 
-## Information We Access
+## Google OAuth Scopes Disclosure
 
-CodeFormatter accesses only the content that a user explicitly selects within the currently open Google Document.
+To provide its formatting features and user interface, CodeFormatter requests access via specific Google OAuth permissions. We use these scopes strictly for the following operational purposes:
 
-This access is required to:
-
-* Format code blocks
-* Apply syntax highlighting
-* Apply visual themes and styling
-
-CodeFormatter uses the Google Docs API scope:
-
-* `https://www.googleapis.com/auth/documents.currentonly`
-
-This scope limits access to only the document currently being used.
+*   **`https://www.googleapis.com/auth/documents.currentonly`**  
+    Used exclusively to read the specific unformatted code blocks you highlight within your active Google Docs™ file and to write back the syntax-highlighted text. This permission restricts our access solely to the document where you explicitly run the add-on.
+*   **`https://googleapis.com`**  
+    Used to render the add-on's sidebars, settings panel, and configuration windows directly within the interface of your active Google Workspace™ session.
 
 ---
 
@@ -42,31 +35,15 @@ CodeFormatter does not:
 
 ---
 
-## Data Storage
+## Data Storage and Sharing
 
-CodeFormatter does not store document content on external servers.
-
-Formatted code is processed within Google Workspace and written directly back to the user's document.
-
-No document content is permanently stored by CodeFormatter.
+CodeFormatter does not store document content or user information on external servers. All formatted code is processed instantly and locally within Google Workspace™ and written directly back to the user's document. No user content is ever transmitted to external services for processing.
 
 ---
 
-## Data Sharing
+## Google API Services User Data Policy Compliance
 
-CodeFormatter does not share document content or user information with any third party.
-
-No user content is transmitted to external services for processing.
-
----
-
-## Logging and Error Reporting
-
-Basic application logs may be generated to help diagnose technical issues.
-
-These logs are intended for operational and debugging purposes only.
-
-CodeFormatter is designed to avoid storing document content within logs whenever possible.
+CodeFormatter's use and transfer to any other app of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://google.com), including the Limited Use requirements.
 
 ---
 
@@ -76,31 +53,13 @@ CodeFormatter uses the following open-source library:
 
 * Highlight.js (BSD-3-Clause License)
 
-Highlight.js is bundled with the add-on and does not receive any user data.
-
-CodeFormatter does not transmit user content to Highlight.js servers or any external service.
-
----
-
-## Security
-
-We take reasonable measures to protect user information and minimize access to user data.
-
-CodeFormatter follows the principle of least privilege and requests only the permissions necessary for its functionality.
-
----
-
-## Children's Privacy
-
-CodeFormatter is not directed toward children under the age of 13 and does not knowingly collect personal information from children.
+Highlight.js is bundled locally with the add-on and does not receive or transmit any user data to external servers.
 
 ---
 
 ## Changes to This Privacy Policy
 
-This Privacy Policy may be updated from time to time.
-
-Any changes will be posted on this page with an updated revision date.
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated revision date.
 
 ---
 
@@ -108,8 +67,9 @@ Any changes will be posted on this page with an updated revision date.
 
 If you have questions about this Privacy Policy, please contact:
 
-Vikas Gupta
-
-Email: cse.vikashgupta@gmail.com
-
+Vikas Gupta  
+Email: cse.vikashgupta@gmail.com  
 GitHub: https://github.com/dev-vikasgupta
+
+---
+*Google Docs™ and Google Workspace™ are trademarks of Google LLC.*

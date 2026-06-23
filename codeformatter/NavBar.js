@@ -2,6 +2,12 @@ class NavBar extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
       <style>
+      body {
+        background-color: #ffffff; /* Forces a crisp white background */
+        margin: 0;
+        padding: 0;
+        }
+
         .navbar {
           display: flex;
           justify-content: space-between;
